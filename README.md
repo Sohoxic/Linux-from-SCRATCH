@@ -7,12 +7,6 @@ installation to be able to access these tools.**
 
 **Part 1.** **Scripted Partitioning & Formatting**
 
-> ![setup](https://github.com/Sohoxic/Linux-from-SCRATCH/blob/main/assets/setupdisk.sh.jpg)
-> ![setup](https://github.com/Sohoxic/Linux-from-SCRATCH/blob/main/assets/setupdisk.sh1.jpg)
 
 **Part 2.** **Downloading Linux Standard Base packages**
 
-> ![DOWNLOAD](https://github.com/Sohoxic/Linux-from-SCRATCH/blob/main/assets/download.jpg)
-> - All downloaded packages.
->
-> ![sources](https://github.com/Sohoxic/Linux-from-SCRATCH/blob/main/assets/sources.jpg)
