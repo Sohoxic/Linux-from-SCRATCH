@@ -8,8 +8,7 @@ installation to be able to access these tools.**
 ## RESOURCES
 ### FAQ
 - If during the building of the LFS system you encounter any errors, have any questions, or think there is a typo in the
-book, please start by consulting the Frequently Asked Questions (FAQ) that is located at https://www.linuxfromscratch.
-org/faq/.
+book, please start by consulting the Frequently Asked Questions (FAQ) that is located at https://www.linuxfromscratch.org/faq/.
 
 **Part 1.** **Scripted Partitioning & Formatting**
 
