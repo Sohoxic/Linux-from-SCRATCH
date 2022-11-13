@@ -5,6 +5,12 @@ or openSUSE). This existing Linux system (the host) will be used as a starting p
 including a compiler, linker, and shell, to build the new system. Select the “development” option during the distribution
 installation to be able to access these tools.**
 
+## RESOURCES
+### FAQ
+- If during the building of the LFS system you encounter any errors, have any questions, or think there is a typo in the
+book, please start by consulting the Frequently Asked Questions (FAQ) that is located at https://www.linuxfromscratch.
+org/faq/.
+
 **Part 1.** **Scripted Partitioning & Formatting**
 
 
